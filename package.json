@@ -1,0 +1,14 @@
+{
+  "name": "itemtransfer-backend",
+  "version": "1.0.0",
+  "description": "you little snooper, how DARE you look at my code >:(!!!!! lol jk have a look around xd",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "CC-BY-NC-SA 4.0",
+  "type": "commonjs"
+}
